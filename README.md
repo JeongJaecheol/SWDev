@@ -328,3 +328,14 @@
 ```
 
 출처:https://github.com/eomcs/eomcs-interview
+
+### github 특정 commit download
+```
+[Download URL]
+- https://github.com/{username}/{projectname}/archive/{sha}.zip
+- username : JeongJaecheol
+- projectname : IoT-Bigdata-Project
+- sha : 1851d4b
+```
+
+출처:https://stackoverflow.com/questions/13636559/how-to-download-zip-from-github-for-a-particular-commit-sha
